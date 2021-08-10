@@ -1,3 +1,6 @@
+//program for calculator , change performed on 11th Aug//
+
+
 import java.util.Scanner;
 
  public class calculator
